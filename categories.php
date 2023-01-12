@@ -1,5 +1,5 @@
 
-<?php include('partials-front/menu.php'); ?>
+<?php includel('partials-front/menu.php'); ?>
 
 
 
