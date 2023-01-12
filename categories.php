@@ -3,7 +3,7 @@
 
 
 
-<!-- CAtegories Section Starts Here -->
+<!-- CAtegories Section Starts Herde -->
 <section class="categories">
     <div class="container">
         <h2 class="text-center">Explore Foods</h2>
